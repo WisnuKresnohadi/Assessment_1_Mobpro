@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assessment1</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="bagikan_template">Mathematics:  %1$s\\nNatural Science: %2$s\\nBahasa Indonesia: %3$s\\nEnglish: %4$s\\n\\nFinal Result : %5$.2f</string>
+    <string name="b_inggris">English</string>
+    <string name="matematika">Mathematic</string>
+    <string name="ipa">Natural Science</string>
+    <string name="input_invalid">Invalid Input</string>
+    <string name="hitung">Count</string>
+    <string name="hasil">Result: %1$.2f</string>
+    <string name="sangat_baik">Excellent</string>
+    <string name="baik">Good</string>
+    <string name="cukup">Average</string>
+    <string name="kurang">Bad</string>
+    <string name="bagikan">Share</string>
+    <string name="kembali">Back</string>
+    <string name="profil">Profile Creator</string>
+    <string name="deskripsi_profil">Hi, my name is Wisnu Kresnohadi, I study at Telkom University, and I am majoring in D3 Software Application Engineering.</string>
+    <string name="gambar">Picture %1$s</string>
+    <string name="smp">Junior High</string>
+    <string name="sma">Senior High</string>
+</resources>
