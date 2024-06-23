@@ -1,23 +1,23 @@
 <resources>
-    <string name="app_name">Ujian1</string>
-    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+   <string name="app_name">Assessment1</string>
+    <string name="tentang_aplikasi">About App</string>
     <string name="b_indo" translatable="false">Bahasa Indonesia</string>
-    <string name="b_inggris">Bahasa Inggris</string>
-    <string name="matematika">Matematika</string>
-    <string name="ipa">IPA</string>
-    <string name="input_invalid">Masukan Salah</string>
-    <string name="hitung">Hitung</string>
-    <string name="hasil">Hasil: %1$.2f</string>
-    <string name="sangat_baik">Sangat Baik</string>
-    <string name="baik">Baik</string>
-    <string name="cukup">Cukup</string>
-    <string name="kurang">Kurang</string>
-    <string name="bagikan">Bagikan</string>
-    <string name="kembali">Kembali</string>
-    <string name="profil">Profil Pembuat</string>
-    <string name="gambar">Gambar %1$s</string>
-    <string name="smp">SMP</string>
-    <string name="sma">SMA</string>
-    <string name="deskripsi_profil">Hai, nama saya Wisnu Kresnohadi kuliah di Telkom University, saya mengambil jurusan D3 Rekayasa Perangkat Lunak Aplikasi.</string>
-    <string name="bagikan_template">Matematika:  %1$s\nIPA: %2$s\nBahasa Indonesia: %3$s\nBahasa Inggris: %4$s\n\nNilai Akhir : %5$.2f\n%6$s</string>
+    <string name="b_inggris">English</string>
+    <string name="matematika">Mathematic</string>
+    <string name="ipa">Natural Science</string>
+    <string name="input_invalid">Invalid Input</string>
+    <string name="hitung">Count</string>
+    <string name="hasil">Result: %1$.2f</string>
+    <string name="sangat_baik">Excellent</string>
+    <string name="baik">Good</string>
+    <string name="cukup">Average</string>
+    <string name="kurang">Bad</string>
+    <string name="bagikan">Share</string>
+    <string name="kembali">Back</string>
+    <string name="profil">Profile Creator</string>
+    <string name="gambar">Picture %1$s</string>
+    <string name="smp">Junior High</string>
+    <string name="sma">Senior High</string>
+    <string name="deskripsi_profil">Hi, my name is Wisnu Kresnohadi, I study at Telkom University, and I am majoring in D3 Software Application Engineering.</string>
+    <string name="bagikan_template">Mathematics:  %1$s\\nNatural Science: %2$s\\nBahasa Indonesia: %3$s\\nEnglish: %4$s\\n\\nFinal Result : %5$.2f</string>
 </resources>
